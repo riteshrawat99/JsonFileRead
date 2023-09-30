@@ -1,0 +1,24 @@
+[
+  {
+    "name" : "India",
+    "type" : "Country"
+  },
+  {
+    "name" : "Hitesh",
+    "type" : "Person"
+  }
+,
+  {
+    "name" : "Google",
+    "type" : "Search Engine"
+  },
+  {
+    "name" : "Nothing",
+    "type" : "Nothing Engine"
+  }
+  ,
+  {
+    "name" : "Something",
+    "type" : "Do any"
+  }
+]
